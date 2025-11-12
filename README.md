@@ -14,7 +14,7 @@ This blog is NOT supposed to be pretty, it is supposed to detail every step of t
 
 Table Of Contents:
 
-* [1.](MyMath/AEOTA.pdf) Exploring how I can try to tie order theory and analysis together.
+* [1.](MyMath/AEOTA-2.pdf) Exploring how I can try to tie order theory and analysis together.
 
 Currently:
 Synthesizing a satisfactory path topology. 
