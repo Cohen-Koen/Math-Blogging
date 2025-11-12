@@ -16,6 +16,9 @@ Table Of Contents:
 
 * [1.](MyMath/AEOTA-1.png) Exploring how I can try to tie order theory and analysis together.
 
+Currently:
+Synthesizing a satisfactory path topology. 
+
 
 _anything but paying for a wordpress page hosting..._
 
