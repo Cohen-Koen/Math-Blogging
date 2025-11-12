@@ -14,7 +14,7 @@ This blog is NOT supposed to be pretty, it is supposed to detail every step of t
 
 Table Of Contents:
 
-* [1.](MyMath/AOETA-1.png) Exploring how I can try to tie order theory and analysis together.
+* [1.](MyMath/AEOTA-1.png) Exploring how I can try to tie order theory and analysis together.
 
 
 _anything but paying for a wordpress page hosting..._
