@@ -13,7 +13,8 @@ Here I will post certain blogs, scans, detailing my progress and experience as m
 This blog is NOT supposed to be pretty, it is supposed to detail every step of the way: the wrong theorems, the conjectures, and ultimately my growth as a mathematician. Sometimes my logs will be typewritten sometimes they will be typeset in LaTeX. Just bear with me.
 
 Table Of Contents:
-<blank>
+
+* [1.](MyMath/AOETA-1.png) Exploring how I can try to tie order theory and analysis together.
 
 
 _anything but paying for a wordpress page hosting..._
